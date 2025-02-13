@@ -148,9 +148,3 @@ Differential geometry provides a rigorous mathematical framework for studying sm
 
 <hr>
 
-<h2>Conclusion</h2>
-<p>
-The intersection of differential geometry, computational physics, and numerical analysis provides a robust foundation for modeling curved spaces and intrinsic properties of manifolds. The algorithms implemented here facilitate efficient and scalable computations, with applications spanning from fundamental physics to real-world engineering problems.
-</p>
-
-<p align="center"><b>Advancing computational methods for geometric and physical modeling.</b></p>
