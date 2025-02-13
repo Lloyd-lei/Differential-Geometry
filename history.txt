@@ -1,0 +1,16 @@
+  471  touch parallel_transformation.py
+  472  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/parallel-transformation/parallel_transformation.py
+  473  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/parallel-transformation/parallel_transformation.py
+  474  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/parallel-transformation/parallel_transformation.py
+  475  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/parallel-transformation/parallel_transformation.py
+  476  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/geometric-transformation/geometric_transformation.py
+  477  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/geometric-transformation/geometric_transformation.py
+  478  /opt/anaconda3/bin/python /Users/yudonglei/Desktop/physics129_test/Pset2/geometric-transformation/geometric_transformation.py
+  479  history > history.txt
+  480  ls
+  481  rm -f history.txt
+  482  ls
+  483  pwd
+  484  cd /Users/yudonglei/Desktop/physics129_test/Pset2
+  485  pwd
+  486  ls
